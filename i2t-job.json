@@ -21,7 +21,7 @@
       "Host" : "zzz-linux-agent-0",
       "CreatedBy" : "rhenan_faria@bmc.com",
       "RunAs" : "ctmagent",
-      "Command" : "sleep 20",
+      "Command" : "sleep 25",
       "When" : {
         "WeekDays" : [ "NONE" ],
         "MonthDays" : [ "ALL" ],
