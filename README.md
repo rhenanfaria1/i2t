@@ -1,5 +1,4 @@
 ---
-name: "Feature request \U0001F680"
 about: IT2
 labels: Module 2
 
